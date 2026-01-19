@@ -1,0 +1,7 @@
+{
+  "name": "Dolor AI Assistant",
+  "description": "Production-ready WhatsApp Business AI SaaS platform with subscription management, manual payment processing, and AI auto-reply configuration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
